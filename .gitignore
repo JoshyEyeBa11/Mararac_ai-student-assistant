@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Secrets - NEVER commit the real API key (backend/.env holds your AI credentials)
+.env
+backend/.env
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/

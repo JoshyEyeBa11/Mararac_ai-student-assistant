@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Secrets - NEVER commit the real API key
+.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
